@@ -76,4 +76,4 @@ issue: need to replace pending order
 最多浮亏的时候有1700点,没有穿仓,是因为我只做了3手,而我总共仓位可以做18手.
 将来如果资金很大的时候,我需要只用四分之一的仓位来进行操作.这样就不会穿仓.
 ```
-![hang](/images/ru2405.jpg)
+![hang](/images/ru2405.png)
