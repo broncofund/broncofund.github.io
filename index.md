@@ -44,9 +44,7 @@ issue: need to replace pending order
 还有就是,橡胶合约的更替,2401的合约变成了次要合约。 
 是在这一天,之后就换做2405变成了主力
 ```
-![hang](/images/2.jpg)
-![hang](/images/4.jpg)
-![hang](/images/3.jpg)
+![hang](/images/ru2401.jpg)
 
 一、期货什么时候到期
 　　期货到期日也就是最后交易日，每个期货品种的最后交易日不同，
